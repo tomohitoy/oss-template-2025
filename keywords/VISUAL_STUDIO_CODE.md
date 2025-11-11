@@ -6,7 +6,7 @@ Visual Studio Code（VS Code）はMicrosoftが開発しているWindows、Linux�
 
 ## 参考文献
 
-- Visual Studio Code -Wikipedie(https://ja.wikipedia.org/wiki/Visual_Studio_Code)
+- Visual Studio Code -　Wikipedie(https://ja.wikipedia.org/wiki/Visual_Studio_Code)
 
 ## 作成者
 
