@@ -8,8 +8,8 @@
 
 ## 参考文献
 
-- [公開鍵・秘密鍵とは？暗号化の仕組みをわかりやすく解説- ITトレンド](URL:https://it-trend.jp/encryption/article/64-0089)
-- [ビジネスIT用語(秘密鍵):KDDI](URL:https://biz.kddi.com/content/glossary/p/private-key/)
+- [公開鍵・秘密鍵とは？暗号化の仕組みをわかりやすく解説- ITトレンド](https://it-trend.jp/encryption/article/64-0089)
+- [ビジネスIT用語(秘密鍵):KDDI](https://biz.kddi.com/content/glossary/p/private-key/)
 
 ## 作成者
 
