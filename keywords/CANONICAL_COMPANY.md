@@ -13,7 +13,7 @@ Ubuntuに関連するソフトウェア「Bazaar」「Upstart」「Launchpad」�
 
 ## 参考文献
 
-- [カノニカル - Wikipedi](https://ja.wikipedia.org/wiki/カノニカル)
+- [カノニカル - Wikipedia](https://ja.wikipedia.org/wiki/カノニカル)
 - [Canonical社ホームページ](https://canonical.com)
 
 ## 作成者
