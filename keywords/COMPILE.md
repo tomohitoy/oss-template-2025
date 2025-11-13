@@ -14,7 +14,7 @@ Javaのコンパイルはjavacコマンドで行います。
 
 ## 参考文献
 
-- [コンパイル - Wikipedi](https://ja.wikipedia.org/wiki/コンパイル)
+- [コンパイル - Wikipedia](https://ja.wikipedia.org/wiki/コンパイル)
 - [MDN Web Docs 用語集 > Compile（コンパイル）](https://developer.mozilla.org/ja/docs/Glossary/Compile)
 
 ## 作成者
