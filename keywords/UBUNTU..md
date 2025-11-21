@@ -6,8 +6,8 @@ UbuntuはDebian GNU/Linuxを母体としたオペレーティングシステム�
 ## 参考文献
 
 - [Wikipedia](https://ja.wikipedia.org/wiki/Ubuntu)
-[Ubuntu Japanese Team](https://www.ubuntulinux.jp/ubuntu)
-[Ubuntuとは？今更聞けないLinuxとの違いや使い方を解説](https://tenshoku.mynavi.jp/engineer/guide/articles/Yi7wERIAACMA1Xqh)
+- [Ubuntu Japanese Team](https://www.ubuntulinux.jp/ubuntu)
+- [Ubuntuとは？今更聞けないLinuxとの違いや使い方を解説](https://tenshoku.mynavi.jp/engineer/guide/articles/Yi7wERIAACMA1Xqh)
 
 
 ## 作成者
